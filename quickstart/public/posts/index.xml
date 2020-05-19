@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on antoniozenoglio website</title>
     <link>https://antoniozenoglio.com/quickstart/public/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on antoniozenoglio website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 22:19:40 +0100</lastBuildDate>
@@ -13,11 +13,11 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://antoniozenoglio.com/quickstart/public/posts/my-first-post/</link>
+      <link>https://antoniozenoglio.com/quickstart/public/posts/primeiro-post/</link>
       <pubDate>Tue, 19 May 2020 22:19:40 +0100</pubDate>
       
-      <guid>https://antoniozenoglio.com/quickstart/public/posts/my-first-post/</guid>
-      <description>HEllo mundo</description>
+      <guid>https://antoniozenoglio.com/quickstart/public/posts/primeiro-post/</guid>
+      <description>HEllo mundo Bom dia , isto e giro</description>
     </item>
     
   </channel>
