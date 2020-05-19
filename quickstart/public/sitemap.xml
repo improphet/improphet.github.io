@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://antoniozenoglio.com/quickstart/public/posts/my-first-post/</loc>
     <lastmod>2020-05-19T22:19:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://antoniozenoglio.com/quickstart/public/</loc>
     <lastmod>2020-05-19T22:19:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://antoniozenoglio.com/quickstart/public/posts/</loc>
     <lastmod>2020-05-19T22:19:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://antoniozenoglio.com/quickstart/public/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://antoniozenoglio.com/quickstart/public/tags/</loc>
   </url>
   
 </urlset>
