@@ -1,4 +1,4 @@
 baseURL = "https://www.antoniozenoglio.com/megane/public/"
 languageCode = "en-us"
 title = "Megane website"
-theme = "megane"
+theme = "meghna-hugo-master"
