@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megane website</title>
+    <link>https://www.antoniozenoglio.com/megane/public/</link>
+    <description>Recent content on Megane website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 23:07:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.antoniozenoglio.com/megane/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Omeuprimeiropost</title>
+      <link>https://www.antoniozenoglio.com/megane/public/posts/omeuprimeiropost/</link>
+      <pubDate>Tue, 19 May 2020 23:07:33 +0100</pubDate>
+      
+      <guid>https://www.antoniozenoglio.com/megane/public/posts/omeuprimeiropost/</guid>
+      <description>Alo, boas tardes. Isto e so um tests fixe !!</description>
+    </item>
+    
+  </channel>
+</rss>
