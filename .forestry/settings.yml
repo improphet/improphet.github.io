@@ -9,7 +9,7 @@ sections:
   label: testdir
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: document
   path: Document
   label: Hi
