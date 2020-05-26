@@ -1,4 +1,18 @@
 ---
 label: Improphet
 hide_body: false
-fields: []
+fields:
+- name: yas
+  type: text
+  config:
+    required: false
+  label: YAS
+  description: yas
+- name: buuuhblock
+  type: blocks
+  label: buuuhblock
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: buuuhblock
